@@ -17,4 +17,6 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
-### header 3
+### Changes 
+
+made multiple changes to make the site more readable and accessable. 
