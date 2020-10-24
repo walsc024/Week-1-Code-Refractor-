@@ -76,7 +76,7 @@ a {
 /* search engine optimization, social media  box and text */
 .main-div {
     margin-bottom: 20px;
-    padding: 20px;
+    padding: 10px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
@@ -112,12 +112,15 @@ p {
 .content {
     width: 75%;
     display: inline-block;
-    margin-left: 20px;
+    margin-left: 30px;
+    padding-left:-20px;
 }
 /* creates blue right hand column */
 .benefits {
     margin-right: 20px;
-    padding-bottom: 20px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    padding-left:10px;
     clear: both;
     float: right;
     width: 20%;
@@ -127,6 +130,7 @@ p {
 }
 /* alters lead generation text */
 .benefit {
+    padding-top: 20px;
     margin-bottom: 32px;
     color: #ffffff;
 }
